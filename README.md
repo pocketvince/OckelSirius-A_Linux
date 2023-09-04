@@ -18,6 +18,10 @@ Because I haven't found any equivalent project on internet, so... let's go!
 
 ❌ USB 3.0
 
+❌ Microphone
+
+❌ Webcam
+
 ❌ Bluetooth
 
 ❌ HDMI Port
