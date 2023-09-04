@@ -20,6 +20,12 @@ Because I haven't found any equivalent project on internet, so... let's go!
 
 ❌ Bluetooth
 
+❌ HDMI Port
+
+❌ RJ-45 Port
+
+❌ Sound
+
 ✔️ Wi-Fi
 
 ✔️ Touch-screen
